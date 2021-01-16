@@ -1,0 +1,24 @@
+/**/
+.page-test{
+    display: none;
+}
+.page-complete{
+    display: none;
+}
+
+/**/
+
+
+
+.btn-start{
+    width: 200px;
+    background-color: transparent;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 100px;
+}
+.btn-start:hover{
+    cursor: pointer;
+    background-color: burlywood;
+}
